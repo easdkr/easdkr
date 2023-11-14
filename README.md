@@ -18,4 +18,5 @@ https://easdkr.github.io
 :email: **Email** \
 choie0423@naver.com
 
-
+📝: **Blog** \
+https://velog.io/@easdkr
