@@ -19,4 +19,5 @@ https://easdkr.github.io
 choie0423@naver.com
 
 📝: **Blog** \
-https://velog.io/@easdkr
+- https://velog.io/@easdkr
+- https://june0423.tistory.com
