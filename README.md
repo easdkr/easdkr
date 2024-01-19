@@ -2,9 +2,19 @@
 easdkr/easdkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=200&section=header&text=Welcome&fontSize=70&fontAlign=20&fontAlignY=30&fontColor=FFF&desc=Github%20Repository%20of%20JUNE%20&descSize=30&descAlign=30&descAlignY=50)
+<div align=center>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
-:notebook: **Resume** \
+</div>
+
+<div align=center>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easdkr&layout=pie&exclude_repo=handController,2018-KAKAO-BLIND-RECRUITMENT,Algorithm-Practice)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+:notebook: **Resume**
 https://easdkr.github.io
 
 :school: **Education** 
@@ -15,9 +25,11 @@ https://easdkr.github.io
 
 ##### [Eazel](https://eazel.net) 2023.04 ~ 
 
-:email: **Email** \
-choie0423@naver.com
+:email: **Email**
+##### choie0423@naver.com
 
-📝: **Blog** \
-- https://velog.io/@easdkr
-- https://june0423.tistory.com
+📝: **Blog**
+
+[velog](https://velog.io/@easdkr)
+
+[tistory](https://june0423.tistory.com)
