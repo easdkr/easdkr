@@ -21,9 +21,9 @@ https://easdkr.github.io
 ##### [금오공과대학교 컴퓨터공학과](https://ce.kumoh.ac.kr/ce/index.do) 2012.03~2019.02
 
 :office: **Career**
-##### [알파서클](https://alphacircle.co.kr) 2021.01 ~ 2023.03
+##### [알파서클](https://alphacircle.co.kr) 솔루션 엔지니어, 2021.01 ~ 2023.03
 
-##### [Eazel](https://eazel.net) 2023.04 ~ 
+##### [Eazel](https://eazel.net) 백엔드 엔지니어, 2023.04 ~ 2024.01 
 
 :email: **Email**
 ##### choie0423@naver.com
