@@ -21,11 +21,13 @@ https://easdkr.github.io
 ##### [금오공과대학교 컴퓨터공학과](https://ce.kumoh.ac.kr/ce/index.do) 2012.03~2019.02
 
 :office: **Career**
-##### [alpha circle](https://alphacircle.co.kr) 솔루션 엔지니어, 2021.01 ~ 2023.03
+
+
+##### [munto](https://www.munto.kr) Node.js 엔지니어, 2024.03 ~
 
 ##### [eazel](https://eazel.net) 백엔드 엔지니어, 2023.04 ~ 2024.01 
 
-##### [munto](https://www.munto.kr) Node.js 엔지니어, 2024.03 ~
+##### [alpha circle](https://alphacircle.co.kr) 솔루션 엔지니어, 2021.01 ~ 2023.03
 
 :email: **Email**
 ##### choie0423@naver.com
