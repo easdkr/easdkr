@@ -14,6 +14,17 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
+<div align=center>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/easdkr"
+    width="600"
+    height="120"
+  />
+</a>
+
+</div>
 :notebook: **Resume**
 https://easdkr.github.io
 
