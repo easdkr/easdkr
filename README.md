@@ -9,12 +9,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align=center>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easdkr&layout=pie&exclude_repo=handController,2018-KAKAO-BLIND-RECRUITMENT,Algorithm-Practice)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align=center>
   
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -23,6 +17,12 @@ You can click the Preview link to take a look at your changes.
     height="120"
   />
 </a>
+
+</div>
+
+<div align=center>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=easdkr&layout=pie&exclude_repo=handController,2018-KAKAO-BLIND-RECRUITMENT,Algorithm-Practice)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 :notebook: **Resume**
