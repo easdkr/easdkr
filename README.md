@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   <img
     src="https://render.gitanimals.org/lines/easdkr"
     width="600"
-    height="120"
+    height="250"
   />
 </a>
 
