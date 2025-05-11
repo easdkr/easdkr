@@ -33,8 +33,9 @@ https://easdkr.github.io
 
 :office: **Career**
 
+##### [marpple](https://www.marpplecorp.com/) 플랫폼 엔지니어, 2024.10 ~ 
 
-##### [munto](https://www.munto.kr) Node.js 엔지니어, 2024.03 ~
+##### [munto](https://www.munto.kr) Node.js 엔지니어, 2024.03 ~ 2024.10
 
 ##### [eazel](https://eazel.net) 백엔드 엔지니어, 2023.04 ~ 2024.01 
 
