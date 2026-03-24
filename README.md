@@ -10,7 +10,7 @@
 
 ```typescript
 const june = {
-  role: "Backend & Platform Engineer",
+  role: "Claude launchpad",
   location: "South Korea 🇰🇷",
   currentCompany: "Wisely",
   interests: ["System Design", "DevOps", "DX Improvement"],
